@@ -1,0 +1,4 @@
+soc*
+project/*
+target/*
+test-*
